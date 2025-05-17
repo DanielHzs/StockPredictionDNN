@@ -1,0 +1,16 @@
+# Raw or downloaded data
+Data/
+data/
+
+# Model checkpoints
+chkpts_script_4_128/
+chkpts_script_4_32/
+chkpts_script_5_64/
+
+# Logs & outputs
+logs/
+*.log
+
+# OS/editor cruft
+.DS_Store
+Thumbs.db
